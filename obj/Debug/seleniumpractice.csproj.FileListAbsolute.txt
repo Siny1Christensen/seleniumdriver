@@ -1,0 +1,12 @@
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\seleniumpractice.exe.config
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\seleniumpractice.exe
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\seleniumpractice.pdb
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\WebDriver.dll
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\WebDriver.Support.dll
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\WebDriver.xml
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\bin\Debug\WebDriver.Support.xml
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\obj\Debug\seleniumpractice.csprojAssemblyReference.cache
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\obj\Debug\seleniumpractice.csproj.CoreCompileInputs.cache
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\obj\Debug\seleniumpractice.csproj.CopyComplete
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\obj\Debug\seleniumpractice.exe
+\\rackstation207\users\sinar.christensen\Desktop\seleniumpractice\obj\Debug\seleniumpractice.pdb
